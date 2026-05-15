@@ -53,7 +53,7 @@ const anushka: Developer = {
 
 ---
 
-## 🎯 Recruiter Snapshot
+## 🎯  Snapshot
 
 <div align="center">
 
