@@ -207,7 +207,7 @@ Stay tuned — **watch this space!** 👀
 
 <div align="center">
 
-🧠 **200+ DSA Problems** solved on LeetCode &nbsp;|&nbsp; 🏅 **Top 16** at Institute on GeeksforGeeks
+🧠 **350+ DSA Problems** solved on LeetCode &nbsp;|&nbsp; 🏅 **Top 16** at Institute on GeeksforGeeks
 
 🎓 **Infosys Springboard** Program Selectee &nbsp;|&nbsp; 🌍 **SheFi Scholarship** (Web3) Recipient
 
